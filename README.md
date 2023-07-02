@@ -21,7 +21,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://codepen.io/pph411/pen/jOQmobj
-- Live Site URL: [https://single-price-grid-component-six-delta.vercel.app/]
+- Live Site URL: [https://base-apparel-coming-soon-from-fa290mrtd-pph411.vercel.app/]
 
 ### Built with
 
